@@ -1,5 +1,5 @@
 {
-    "id": "mattermost-google-calendar",
+    "id": "google-calendar",
     "name": "Mattermost Google Calendar plugin",
     "description": "This plugin uses webhooks to post reminders from configured Google Calendar.",
     "version": "0.1.0",
